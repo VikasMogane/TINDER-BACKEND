@@ -1,7 +1,6 @@
 {
   "name": "tinder-backend",
   "version": "1.0.0",
-  "description": "",
   "main": "server.js",
   "type": "module",
   "scripts": {
@@ -11,7 +10,19 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "axios": "^0.20.0",
+    "cors": "^2.8.5",
     "express": "^4.17.1",
     "mongoose": "^5.10.9"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vikas0024/TINDER-BACKEND.git"
+  },
+  "bugs": {
+    "url": "https://github.com/vikas0024/TINDER-BACKEND/issues"
+  },
+  "homepage": "https://github.com/vikas0024/TINDER-BACKEND#readme",
+  "description": ""
 }
